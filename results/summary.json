@@ -1,0 +1,13 @@
+{
+  "iterations": 50,
+  "valid_payloads": 46,
+  "invalid_payloads": 4,
+  "payload_success_rate_pct": 92.0,
+  "packet_loss_count": 1,
+  "packet_loss_rate_pct": 2.0,
+  "mean_telemetry_latency_ms": 81.1,
+  "p95_telemetry_latency_ms": 95.46,
+  "mean_command_latency_ms": 97.11,
+  "p95_command_latency_ms": 120.18,
+  "fan_on_events": 25
+}
